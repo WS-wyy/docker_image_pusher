@@ -2,5 +2,4 @@ nginx
 python:alpine3.19
 sagikazarmark/dvwa
 alpine
-centos
 area39/pikachu
